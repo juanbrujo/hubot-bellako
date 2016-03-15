@@ -1,0 +1,15 @@
+{
+  "name": "hubot-bellako",
+  "version": "0.0.1",
+  "description": "Hubot script que traduce de chileno a bèlláákó coa-lang",
+  "main": "bellako.js",
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/juanbrujo/hubot-bellako"
+  },
+  "keywords": [
+    "hubot"
+  ],
+  "author": "@jorgeepunan",
+  "license": "MIT"
+}
