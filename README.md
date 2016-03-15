@@ -8,10 +8,19 @@
 $ npm install hubot-bellako --save
 ````
 
+Agregar en `external-scripts.json`:
+
+````
+[
+  ..
+  "hubot-bellako"
+]
+````
+
 ### Uso:
 
 ````
-hubot en bellako <frase>
+hubot> en bellako <frase>
 ````
 
 **Ejemplo:**
